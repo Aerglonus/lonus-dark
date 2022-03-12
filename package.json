@@ -1,5 +1,6 @@
 {
     "name": "Lonus-dark",
+    "icon": "images/extension-pfp.png",
     "displayName": "lonus",
     "description": "lonus custom dark theme",
     "publisher": "Aerglonus",
