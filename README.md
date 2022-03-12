@@ -22,3 +22,9 @@ Will be maintaining this as I have time, thanks for your understanding! 🙏🏽
 3 - Enable the installed theme from the Color Theme drop down list.  
 `Menu Path : Code / File > Preferences > Color Theme > Theme +`  
 `Keyboard Shortcut : Ctrl + K Ctrl + T`
+
+## Feedback
+
+Please report issues related to this theme on the repository page.
+
+[GitHub Repository](https://github.com/Aerglonus/lonus-dark/issues)
