@@ -1,9 +1,11 @@
-Lonus dark theme
+# Lonus dark theme
 
 Here is the VS Code theme that I use. I like dark themes with some color to it so heres mine.
 
-I took inspiration on the color palette from an **Atom ** theme called [Vertex]([GitHub - xypnox/vertex-ui: A dark slim UI for Atom](https://github.com/xypnox/vertex-ui)) since theres no VS CODE port I decided to add the colors myself using [Theme Studio for VS Code ](https://themes.vscode.one/) to edit it easly.
+I took inspiration on the color palette from an **Atom** theme called [Vertex](https://github.com/xypnox/vertex-ui) since theres no VS CODE port I decided to add the colors myself using [Theme Studio for VS Code ](https://themes.vscode.one/) to edit it easly.
 
+---
+## Preview
 ![alt text for screen readers](https://i.imgur.com/kfu4Cbx.png "Text to show on mouseover")
 
 ![codesnap](https://i.imgur.com/z1ARpZy.png)
