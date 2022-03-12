@@ -1,0 +1,31 @@
+{
+    "name": "theme",
+    "displayName": "lonus",
+    "description": "lonus custom dark theme",
+    "publisher": "Aerglonus",
+    "version": "1.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark",
+        "lonus",
+        "dark theme",
+        "vertux-ui",
+        "darktheme",
+        "atom dark"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "lonus-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lonus-dark-color-theme.json"
+            }
+        ]
+    }
+}
