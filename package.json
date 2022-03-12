@@ -3,6 +3,10 @@
     "displayName": "lonus",
     "description": "lonus custom dark theme",
     "publisher": "Aerglonus",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Aerglonus/lonus-dark"
+    },
     "version": "1.0.1",
     "engines": {
         "vscode": "^1.65.0"
